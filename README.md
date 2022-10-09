@@ -1,24 +1,34 @@
-# README
+# Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple ruby on rails blog using Rails 7.
+<br/><br/>
 
-Things you may want to cover:
+# Install
+## Clone the repository
 
-* Ruby version
+```bash
+git clone git@github.com:brysonshelton/RubyBlog.git
+cd RubyBlog
+```
+## Check your Ruby Version
+```
+ruby -v
+```
+The output should start with something like: `ruby 3.1.2`
 
-* System dependencies
+if not, install the right version of ruby.
 
-* Configuration
+## Check your version of Rails
+```
+rails -v
+```
+The output should say: `Rails 7.0.4`
 
-* Database creation
+## Run rails server
+```
+ruby server
+```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Access site
+- Open web browser
+- go to url `http://127.0.0.1:3000/`
