@@ -4,6 +4,8 @@ This is a simple ruby on rails blog using Rails 7.
 <br/><br/>
 ## Screenshots
 ![RubyBlog_Listing](https://user-images.githubusercontent.com/22489008/230257181-928c36f6-c1d3-4dc4-bc8e-93e6f27161b5.png)
+![RubyBlog_edit](https://user-images.githubusercontent.com/22489008/230257401-ac694ab0-8acf-4825-8721-5d17e5e90800.png)
+
 
 ## Clone the repository
 
