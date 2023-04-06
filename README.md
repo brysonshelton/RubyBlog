@@ -2,8 +2,9 @@
 
 This is a simple ruby on rails blog using Rails 7.
 <br/><br/>
+## Screenshots
+![RubyBlog_Listing](https://user-images.githubusercontent.com/22489008/230257181-928c36f6-c1d3-4dc4-bc8e-93e6f27161b5.png)
 
-# Install
 ## Clone the repository
 
 ```bash
@@ -19,6 +20,7 @@ The output should start with something like: `ruby 3.1.2`
 if not, install the right version of ruby.
 
 ## Check your version of Rails
+
 ```
 rails -v
 ```
